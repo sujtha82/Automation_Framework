@@ -1,0 +1,12 @@
+[INFO ] 2021-05-30 14:15:54.170 [main] Log4j - initialized the landing page
+[INFO ] 2021-05-30 14:15:54.209 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-05-30 14:16:01.017 [main] Log4j - User logged in
+[INFO ] 2021-05-30 14:46:46.700 [main] Log4j - initialized the landing page
+[INFO ] 2021-05-30 14:46:46.742 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-05-30 14:46:52.989 [main] Log4j - User logged in
+[INFO ] 2021-05-30 14:47:46.380 [main] Log4j - initialized the landing page
+[INFO ] 2021-05-30 14:47:46.381 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-05-30 14:47:52.810 [main] Log4j - User logged in
+[INFO ] 2021-05-30 14:48:51.991 [main] Log4j - initialized the landing page
+[INFO ] 2021-05-30 14:48:51.992 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-05-30 14:48:58.854 [main] Log4j - User logged in

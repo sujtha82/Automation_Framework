@@ -1,0 +1,34 @@
+[INFO ] 2021-06-17 15:10:12.730 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:10:43.435 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:10:51.463 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:12:46.511 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:12:46.515 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:12:53.450 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:13:44.951 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:14:07.040 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:14:07.042 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:14:13.925 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:15:01.640 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:15:15.572 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:15:15.572 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:15:22.554 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:16:14.868 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:36:32.285 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:36:38.929 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:39:29.894 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:39:29.898 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:39:36.773 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:40:24.619 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:41:50.852 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:54:09.652 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:54:09.657 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:54:16.183 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:55:02.980 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:55:36.930 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:55:36.931 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:55:43.638 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:56:33.325 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:57:01.899 [main] Log4j - ******SigninStarted***
+[INFO ] 2021-06-17 15:57:01.900 [main] Log4j - ******NewreleasePageStarted***
+[INFO ] 2021-06-17 15:57:08.933 [main] Log4j - ******HomePage has Started***
+[INFO ] 2021-06-17 15:57:59.833 [main] Log4j - ******NewreleasePageStarted***

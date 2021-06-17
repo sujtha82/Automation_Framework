@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="200924" started-at="2021-05-30T14:46:22 PDT" finished-at="2021-05-30T14:49:43 PDT">
+    <groups>
+    </groups>
+    <test name="Automation_Framework" duration-ms="200924" started-at="2021-05-30T14:46:22 PDT" finished-at="2021-05-30T14:49:43 PDT">
+      <class name="com.qa.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="setUp" is-config="true" duration-ms="29144" started-at="2021-05-30T14:46:23 PDT" finished-at="2021-05-30T14:46:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchItem(java.lang.String)[pri:4, instance:com.qa.test.HomePageTest@26653222]" name="verifySearchItem" duration-ms="27321" started-at="2021-05-30T14:46:52 PDT" data-provider="getItemTestData" finished-at="2021-05-30T14:47:20 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="tearDown" is-config="true" duration-ms="764" started-at="2021-05-30T14:47:20 PDT" finished-at="2021-05-30T14:47:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="setUp" is-config="true" duration-ms="31728" started-at="2021-05-30T14:47:21 PDT" finished-at="2021-05-30T14:47:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchItem(java.lang.String)[pri:4, instance:com.qa.test.HomePageTest@26653222]" name="verifySearchItem" duration-ms="44145" started-at="2021-05-30T14:47:52 PDT" data-provider="getItemTestData" finished-at="2021-05-30T14:48:36 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[soap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="tearDown" is-config="true" duration-ms="800" started-at="2021-05-30T14:48:36 PDT" finished-at="2021-05-30T14:48:37 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="setUp" is-config="true" duration-ms="21098" started-at="2021-05-30T14:48:37 PDT" finished-at="2021-05-30T14:48:58 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchItem(java.lang.String)[pri:4, instance:com.qa.test.HomePageTest@26653222]" name="verifySearchItem" duration-ms="43905" started-at="2021-05-30T14:48:58 PDT" data-provider="getItemTestData" finished-at="2021-05-30T14:49:42 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanitizer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.HomePageTest@26653222]" name="tearDown" is-config="true" duration-ms="732" started-at="2021-05-30T14:49:42 PDT" finished-at="2021-05-30T14:49:43 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.HomePageTest -->
+    </test> <!-- Automation_Framework -->
+  </suite> <!-- Default Suite -->
+</testng-results>

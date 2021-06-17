@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="Automation_Framework">
+    <classes>
+      <class name="com.qa.test.HomePageTest"/>
+    </classes>
+  </test> <!-- Automation_Framework -->
+  <test name="Automation_Framework(failed)">
+    <classes>
+      <class name="com.qa.test.HomePageTest">
+        <methods>
+          <include name="verifySearchItem"/>
+          <include name="setUp"/>
+          <include name="verifyHomePageTitleTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.test.HomePageTest -->
+    </classes>
+  </test> <!-- Automation_Framework(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
